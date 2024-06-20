@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Prince kumar</h1>
+<h1 align="center">Hi 👋, I'm Prerna Mehta</h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
+ <img src="https://github.com/Prerna-pm/Prerna-pm/blob/main/Linkedin_Heading.png" />
 </h1>
 
 
